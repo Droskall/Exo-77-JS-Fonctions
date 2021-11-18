@@ -4,17 +4,15 @@ function txtReturn() {
     return "monTexte";
 }
 
-function txtInsert(texte){
-    return texte;
+function txtInsert(){
+    return "Jaime le Js";
 }
 
-txtInsert('Jaime le JS');
 
-function backgroundSet(txt){
-    return txt;
+function backgroundSet(){
+    return "Magenta";
 }
 
-backgroundSet('magenta');
 
 
 /* Ne modifiez pas le code suivant */
